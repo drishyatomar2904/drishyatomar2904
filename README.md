@@ -10,26 +10,30 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f0f0f0;
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
             margin: 0;
+            font-family: 'Arial', sans-serif;
         }
         .card-container {
-            border: 2px solid #4CAF50;
-            border-radius: 10px;
+            border: 2px solid #ff6f61;
+            border-radius: 15px;
             overflow: hidden;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+            background: white;
         }
         .card-container img {
             display: block;
             width: 100%;
-            border-bottom: 2px solid #4CAF50;
+            border-bottom: 2px solid #ff6f61;
         }
         .card-container h1 {
             margin: 0;
-            padding: 10px;
-            background-color: #4CAF50;
+            padding: 15px;
+            background-color: #ff6f61;
             color: white;
             text-align: center;
+            font-size: 1.5em;
         }
     </style>
 </head>
