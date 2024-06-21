@@ -13,4 +13,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drishyatomar2904&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishyatomar2904&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div class="tenor-gif-embed" data-postid="10480536" data-share-method="host" data-aspect-ratio="1.315" data-width="100%"><a href="https://tenor.com/view/error-wait-computer-download-cat-gif-10480536">Error Wait GIF</a>from <a href="https://tenor.com/search/error-gifs">Error GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
