@@ -18,9 +18,9 @@
 
 
 
-![magic-computer](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/1eddb04f-82b2-4641-8dab-6834ceb5fd18)
 
 
+https://gifer.com/en/bJk
 
 
 
