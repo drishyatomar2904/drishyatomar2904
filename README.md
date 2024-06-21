@@ -1,5 +1,6 @@
 <a href="https://app.daily.dev/drishyatomar"><img src="https://api.daily.dev/devcards/v2/m2tGHjFr2znAJBfgMk5rK.png?type=default&r=yot" width="356" alt="Drishya Tomar's Dev Card"/></a>
 - 👨‍💻 My Website [https://663e1c5984d4ec1860df951d--rococo-dragon-e52bf8.netlify.app](https://663e1c5984d4ec1860df951d--rococo-dragon-e52bf8.netlify.app)
+![coding-katlah](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/7b26f1fd-5a40-433f-bd42-9a0afff28a69)
 
 - 📫 How to reach me **drishyatomar29@gmail.com**
 
@@ -13,4 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drishyatomar2904&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishyatomar2904&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div class="tenor-gif-embed" data-postid="10480536" data-share-method="host" data-aspect-ratio="1.315" data-width="100%"><a href="https://tenor.com/view/error-wait-computer-download-cat-gif-10480536">Error Wait GIF</a>from <a href="https://tenor.com/search/error-gifs">Error GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
