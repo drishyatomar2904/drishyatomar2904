@@ -17,8 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishyatomar2904&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/a608190e-9ee7-4298-93af-cebaf75a7763)
-
 
 
 
