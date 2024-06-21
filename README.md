@@ -2,7 +2,7 @@
 - 👨‍💻 My Website [https://663e1c5984d4ec1860df951d--rococo-dragon-e52bf8.netlify.app](https://663e1c5984d4ec1860df951d--rococo-dragon-e52bf8.netlify.app)
 
 - 📫 How to reach me **drishyatomar29@gmail.com**
-<div class="tenor-gif-embed" data-postid="12261420493508241229" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-benandbart-laptop-working-wip-gif-12261420493508241229">Typing Benandbart Sticker</a>from <a href="https://tenor.com/search/typing-stickers">Typing Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/drishya-tomar-97099425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drishya-tomar-97099425a/" height="30" width="40" /></a>
