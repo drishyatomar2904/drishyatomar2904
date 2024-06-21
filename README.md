@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://devpost.com/drishyatomar29?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/drishyatomar29?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/drishya-tomar-97099425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drishya-tomar-97099425a/" height="30" width="40" /></a>
 </p>
 
@@ -16,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drishyatomar2904&show_icons=true&locale=en" alt="drishyatomar2904" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drishyatomar2904&" alt="drishyatomar2904" /></p>
