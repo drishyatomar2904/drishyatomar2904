@@ -18,6 +18,6 @@
 
 
 
-![poster](https://github.com/user-attachments/assets/de7bfcbd-afbd-4384-993f-4971d14a102a)
+
 <a href="https://app.daily.dev/drishyatomar"><img src="https://api.daily.dev/devcards/v2/m2tGHjFr2znAJBfgMk5rK.png?type=default&r=yot" width="356" alt="Drishya Tomar's Dev Card"/></a>
 
