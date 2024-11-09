@@ -1,7 +1,3 @@
-
-![p2](https://github.com/user-attachments/assets/97584479-eaf7-47c5-a242-1eae8287576a)
-
-
 - 📫 How to reach me **drishyatomar29@gmail.com**
 
 ## 🌐 Socials:
