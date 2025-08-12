@@ -7,8 +7,6 @@
 </a>
 </p>
 
-![Laptop Animation](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/059e4dd5-fe05-4ebf-91b8-10ec33d5c41a)
-
 ![ezgif-27f4c16b1cafe1](https://github.com/user-attachments/assets/e0ce9498-3dba-4855-ac75-468d98292f5b)
 
 
