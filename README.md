@@ -8,8 +8,7 @@
 </p>
 
 ![Laptop Animation](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/059e4dd5-fe05-4ebf-91b8-10ec33d5c41a)
-![Shortened GIF](shortened_gif_link_here) <!-- Replace with optimized short GIF -->
-
+![Shortened GIF](https://github.com/user-attachments/assets/ee897e0e-4661-49e4-91b7-7a1c47f54885) 
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
