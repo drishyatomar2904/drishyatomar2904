@@ -9,6 +9,7 @@
 
 ![laptop-macbook](https://github.com/drishyatomar2904/drishyatomar2904/assets/121604661/059e4dd5-fe05-4ebf-91b8-10ec33d5c41a)
 
+![tumblr_nquvb7g1Ra1u8rtwro5_640](https://github.com/user-attachments/assets/d2fe45ff-c9d9-4ac3-a715-9ed57cab6d87)
 
 
 # 💻 Tech Stack:
