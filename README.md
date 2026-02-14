@@ -43,8 +43,6 @@
 
 ## 🏆 Achievements & Writing
 
-## 🏆 Achievements & Writing
-
 * 🥇 [**AstroHack 2025 Winner**](https://devpost.com/software/astroguardian-d8v1wh): Won 1st place among 200+ teams with a solo project using real-time space APIs.
 * 🎓 [**SheFi Scholar**](https://www.linkedin.com/posts/drishya-tomar-97099425a_shefischolar-shefiseason15-web3-activity-7378862163530186753-DxT_): Selected for the Season 15 scholarship from a global pool (Top 3% of applicants).
 * ✍️ [**AI Technical Author**](https://payhip.com/ByteMind): Authored and published a series of comprehensive eBooks on AI.
