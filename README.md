@@ -28,15 +28,18 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow) 
-* [cite_start]**Models:** XGBoost, KNN, CNN, ResNet50, Llama 3.3 [cite: 9, 33]
-* [cite_start]**Frameworks:** LangChain, FAISS (Vector DB), Groq API [cite: 33, 36, 37]
+## AI / Machine Learning
 
-### Cybersecurity & Networking
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
+
+* **Models:** XGBoost, KNN, CNN, ResNet50, Llama 3.3
+* **Frameworks:** LangChain, FAISS (Vector DB), Groq API
+
+## Cybersecurity & Networking
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-* [cite_start]**Expertise:** Penetration Testing, Vulnerability Assessments, Ethical Hacking [cite: 23, 25]
-[cite: 10, 64, 65]
+
+* **Expertise:** Penetration Testing, Vulnerability Assessments, Ethical Hacking
 
 
 
