@@ -41,7 +41,10 @@
 
 * **Expertise:** Penetration Testing, Vulnerability Assessments, Ethical Hacking
 
-
+## 🏆 Achievements & Writing
+* [cite_start]**AstroHack 2025 Winner:** Beat 200+ teams with a solo real-time space API project[cite: 59].
+* [cite_start]**SheFi Scholar:** Top 3% of global applicants (Season 15)[cite: 61].
+* [cite_start]**AI Technical Author:** Published a series of 3 eBooks on AI via Gumroad[cite: 62].
 
 
 
